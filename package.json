@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/Angelica23i4i4/git-extended.git",
-  "author": "aifedorova iiigggooo666@gmail.com",
+  "repository": "https://github.com/evatsoppa/git-extended.git",
+  "author": "evatsoppa tsoppaeva@yandex.ru",
   "license": "1.2.3",
   "config": {
         "commitizen": {
