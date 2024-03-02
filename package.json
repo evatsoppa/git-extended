@@ -1,0 +1,14 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/Angelica23i4i4/git-extended.git",
+  "author": "aifedorova iiigggooo666@gmail.com",
+  "license": "1.2.3",
+  "config": {
+        "commitizen": {
+            "path": "cz-conventional-changelog"
+        }
+    }    
+}
